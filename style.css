@@ -1,0 +1,41 @@
+.container-fluid{
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(135deg,#00feba,#5b548a);
+}
+.input {
+    width: 70vw !important;
+    
+}
+
+.btn{
+    width: 5vw;
+    border-radius: 50% !important;
+}
+.time{
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.image{
+    width: 20vw;
+}
+.detail{
+    padding: 0 20px;
+    margin-top: 50px;
+}
+.colm{
+   text-align: left;
+}
+.colm img{
+    width: 6rem;
+    margin-right: 10px;
+}
+
+.colm p{
+    color: aliceblue;
+    
+}
+.humidity , .speed{
+    font-size: 2.5rem;
+    margin-top: -6px;
+}
